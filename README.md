@@ -1,2 +1,4 @@
-# CS-50
-Exercices from course CS-50 by Harvard
+# CS50 - Introduction to Computer Science by **Harvard**
+## An entry-level course taught by *David J. Malan*
+
+Here are my exercises and projects for the CS50 course.
